@@ -1,36 +1,65 @@
-<p align="center">
-	<h1 align="center"> Text to Handwriting converter </h1>
-	<h4 align="center"> Convert text files into handwritten PDFs <h4>
-</p>
-<br>
+ <p align="center"> :wink: </p>
 
-## Functionalities
-- [X] Convert a text document (.txt file) into a PDF file with the text content handwritten
 
-## Pre-requisites:
-- [X] python 3.5 or 3.6
-- [X] [Install Tesseract: an open source text recognition (OCR) Engine](https://github.com/tesseract-ocr/tessdoc/blob/master/Home.md)
-- [X] dependencies from requirements.txt
 
-```
- $ pip install requirements.txt
- ```
+<h3>Installation :gem: </h3>
 
-## Installing required python dependencies
-- Clone this repository onto your system
-```bash
-git clone https://github.com/sharanya02/Text-file-to-handwritten-pdf-file
-```
-- Then, create a virtual environment and install the packages from requirements.txt.
-```bash
-pip install virtualenv
-virtualenv env
-source env/bin/activate
-pip install -r requirements.txt
-```
-## Directions to run
-- Run the following command in the project directory:-
-```
-python txttohandwriting.py
-```
+1. **:round_pushpin: clone the repository.**
 
+   ```shell
+   $git clone https://github.com/Aman-zishan/Assignment-writer.git
+
+   ```
+2. **:checkered_flag: navigate to downloaded folder.**
+
+   ```shell
+   $cd Assignment-writer
+
+   ```
+3. **:construction: set up virtual environment.**
+
+   ```shell
+   #windows
+   
+   $py -3 -m venv venv
+   
+   #linux/mac OS
+   
+   $python3 -m venv venv
+
+   ```
+4. **:diamonds: activate virtual environment.**
+
+   ```shell
+   #windows
+
+   $venv\Scripts\activate
+   
+   #linux/mac OS
+   
+   $source venv/bin/activate
+
+   ```
+5. **:hot_pepper: install required dependencies**
+    ```shell
+    
+    #windows
+    
+
+   $pip install -r requirements.txt
+   
+   #linux/mac OS
+   
+  
+   $pip3 install -r requirements.txt
+
+   ```
+6. **:dart: Run script!**
+    ```shell
+    
+   $python3 txttohandwriting.py
+
+  
+   ```
+   
+   [Source](https://github.com/sharanya02/Text-file-to-handwritten-pdf-file)
