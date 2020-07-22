@@ -42,7 +42,7 @@ Change the text in **boom.txt** to your assignment text XD and follow the instru
    $source venv/bin/activate
 
    ```
-5. **:hot_pepper: install required dependencies**
+5. **:hot_pepper: install required dependencies.**
     ```shell
     
     #windows
