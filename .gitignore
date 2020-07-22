@@ -1,0 +1,4 @@
+.vscode
+final_output.pdf
+*.png
+venv/
