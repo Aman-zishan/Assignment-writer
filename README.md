@@ -1,6 +1,8 @@
  <h1 align="center" > :wink: </h1>
 
+Change the text in **boom.txt** to your assignment text XD and follow the instructions below.
 
+**P.S use only for boring subjects ;-;
 
 <h3>Installation :gem: </h3>
 
