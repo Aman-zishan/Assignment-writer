@@ -1,6 +1,7 @@
  <h1 align="center" > :wink: </h1>
 
 Change the text in **boom.txt** to your assignment text XD and follow the instructions below.
+
 If you want to change the handwriting update the **myfont** folder with alphabets and special characters dataset.
 
 **P.S use only for boring subjects ;-;**
